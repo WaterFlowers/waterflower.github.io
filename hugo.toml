@@ -1,11 +1,8 @@
 baseURL = 'https://waterflowers.github.io/'
-locale = 'en-us'
-title = 'MyProject'
-theme = 'ananke'
-
-[params]
-  # 其他 params 级别的配置可以写在这里
+title = '我的博客'
+theme = 'PaperMod'
+locale = 'zh-cn'
 
 [params.homeInfoParams]
-  Title = "Welcom"
-  Content = "this is my blok"
+Title = "欢迎来访 👋"
+Content = "这是一个用 Hugo 搭建的个人博客，很高兴遇见你。"
