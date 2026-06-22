@@ -5,4 +5,7 @@ draft: false
 cover: "/images/hero-bg.jpg"   # 封面图路径
 
 ---
+
+![封面图片](/images/cover.jpg)
+
 hello,my name is hahahha.

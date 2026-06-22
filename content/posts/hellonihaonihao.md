@@ -6,4 +6,6 @@ cover: "/images/cover.jpg"
 
 ---
 
+![封面图片](/images/cover.jpg)
+
 世界是你们的
