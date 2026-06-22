@@ -8,6 +8,10 @@ languageCode = 'en'
 
   customCSS = ['css/custom.css']
 
+  [params.header]
+    [params.header.title]
+      name = 'Waterflowers Knowledge'
+
   [params.home.profile]
     enable = true
     title = "Explore · Record · Share"
