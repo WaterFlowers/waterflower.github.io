@@ -1,43 +1,45 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>All Posts - Waterflowers Knowledge</title>
-        <link>http://localhost:1313/posts/</link>
-        <description>All Posts | Waterflowers Knowledge</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 22 Jun 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Test Cover Image</title>
-    <link>http://localhost:1313/posts/test-cover/</link>
-    <pubDate>Mon, 22 Jun 2026 00:00:00 &#43;0000</pubDate>
-    <author>WaterFlowers</author>
-    <guid>http://localhost:1313/posts/test-cover/</guid>
-    <description><![CDATA[<p></p>
-<p>这是一篇测试封面图的文章。</p>]]></description>
-</item>
-<item>
-    <title>Hello, World</title>
-    <link>http://localhost:1313/posts/hello/</link>
-    <pubDate>Sun, 21 Jun 2026 00:00:00 &#43;0000</pubDate>
-    <author>WaterFlowers</author>
-    <guid>http://localhost:1313/posts/hello/</guid>
-    <description><![CDATA[<p></p>
-<p>Welcome to my knowledge base! This is my first post.</p>]]></description>
-</item>
-<item>
-    <title>Hello, World</title>
-    <link>http://localhost:1313/posts/hellonihao/</link>
-    <pubDate>Sun, 21 Jun 2026 00:00:00 &#43;0000</pubDate>
-    <author>WaterFlowers</author>
-    <guid>http://localhost:1313/posts/hellonihao/</guid>
-    <description><![CDATA[<p></p>
-<p>hello,my name is hahahha.</p>]]></description>
-</item>
-<item>
-    <title>Hello, World哈哈哈</title>
-    <link>http://localhost:1313/posts/hellonihaonihao/</link>
-    <pubDate>Sun, 21 Jun 2026 00:00:00 &#43;0000</pubDate>
-    <author>WaterFlowers</author>
-    <guid>http://localhost:1313/posts/hellonihaonihao/</guid>
-    <description><![CDATA[<p></p>
-<p>世界是你们的</p>]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>技术笔记 on SpatialLab</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in 技术笔记 on SpatialLab</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>两京智策开发笔记：Cesium 数据处理与空间分析</title>
+				<link>http://localhost:1313/posts/cesium-data-processing/</link>
+				<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/cesium-data-processing/</guid>
+				<description>记录在项目开发中处理唐代长安-洛阳路网数据的过程与踩坑经验。</description>
+			</item>
+			<item>
+				<title>两京智策开发笔记：Cesium 数据处理与空间分析</title>
+				<link>http://localhost:1313/posts/hpc-optimization-notes/</link>
+				<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/hpc-optimization-notes/</guid>
+				<description>记录在项目开发中处理唐代长安-洛阳路网数据的过程与踩坑经验。</description>
+			</item>
+			<item>
+				<title>两京智策开发笔记：Cesium 数据处理与空间分析</title>
+				<link>http://localhost:1313/posts/loveit-customization/</link>
+				<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/loveit-customization/</guid>
+				<description>记录在项目开发中处理唐代长安-洛阳路网数据的过程与踩坑经验。</description>
+			</item>
+			<item>
+				<title>Test Cover Image</title>
+				<link>http://localhost:1313/posts/test-cover/</link>
+				<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/test-cover/</guid>
+				<description>&lt;p&gt;&lt;img&#xD;&#xA;        class=&#34;lazyload&#34;&#xD;&#xA;        src=&#34;http://localhost:1313/svg/loading.min.svg&#34;&#xD;&#xA;        data-src=&#34;http://localhost:1313/images/heng01.jpg&#34;&#xD;&#xA;        data-srcset=&#34;http://localhost:1313/images/heng01.jpg, http://localhost:1313/images/heng01.jpg 1.5x, http://localhost:1313/images/heng01.jpg 2x&#34;&#xD;&#xA;        data-sizes=&#34;auto&#34;&#xD;&#xA;        alt=&#34;/images/heng01.jpg&#34;&#xD;&#xA;        title=&#34;封面图片&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;这是一篇测试封面图的文章。&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

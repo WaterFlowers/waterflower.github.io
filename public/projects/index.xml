@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Projects on Waterflowers Knowledge</title>
+		<title>Projects on SpatialLab</title>
 		<link>http://localhost:1313/projects/</link>
-		<description>Recent content in Projects on Waterflowers Knowledge</description>
+		<description>Recent content in Projects on SpatialLab</description>
 		<generator>Hugo</generator>
 		<language>en</language>
 		
 		
 		
 		
-			<lastBuildDate>Tue, 23 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>我的第一个项目</title>
-				<link>http://localhost:1313/projects/test/</link>
-				<pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/projects/test/</guid>
-				<description>这是一个使用 Hugo 构建的静态网站，具有作品集展示功能。</description>
+				<title>两京智策 · HPC 数字孪生系统</title>
+				<link>http://localhost:1313/projects/liangjing/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/liangjing/</guid>
+				<description>融合 HPC、RAG 与 UE5 的历史地理数字孪生系统</description>
 			</item>
 	</channel>
 </rss>

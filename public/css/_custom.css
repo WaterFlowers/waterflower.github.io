@@ -1,0 +1,4 @@
+.page {
+    max-width: 1600px; /* 或者设置为你想要的宽度，例如 90% */
+    margin: 0 auto;
+}

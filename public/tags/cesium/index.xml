@@ -1,0 +1,39 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Cesium - Tag - SpatialLab</title>
+        <link>http://localhost:1313/tags/cesium/</link>
+        <description>Cesium - Tag - SpatialLab</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 30 Jun 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cesium/" rel="self" type="application/rss+xml" /><item>
+    <title>两京智策 · HPC 数字孪生系统</title>
+    <link>http://localhost:1313/projects/liangjing/</link>
+    <pubDate>Tue, 30 Jun 2026 00:00:00 &#43;0000</pubDate>
+    <author>WaterFlowers</author>
+    <guid>http://localhost:1313/projects/liangjing/</guid>
+    <description><![CDATA[融合 HPC、RAG 与 UE5 的历史地理数字孪生系统]]></description>
+</item>
+<item>
+    <title>两京智策开发笔记：Cesium 数据处理与空间分析</title>
+    <link>http://localhost:1313/posts/cesium-data-processing/</link>
+    <pubDate>Sun, 28 Jun 2026 00:00:00 &#43;0000</pubDate>
+    <author>WaterFlowers</author>
+    <guid>http://localhost:1313/posts/cesium-data-processing/</guid>
+    <description><![CDATA[记录在项目开发中处理唐代长安-洛阳路网数据的过程与踩坑经验。]]></description>
+</item>
+<item>
+    <title>两京智策开发笔记：Cesium 数据处理与空间分析</title>
+    <link>http://localhost:1313/posts/hpc-optimization-notes/</link>
+    <pubDate>Sun, 28 Jun 2026 00:00:00 &#43;0000</pubDate>
+    <author>WaterFlowers</author>
+    <guid>http://localhost:1313/posts/hpc-optimization-notes/</guid>
+    <description><![CDATA[记录在项目开发中处理唐代长安-洛阳路网数据的过程与踩坑经验。]]></description>
+</item>
+<item>
+    <title>两京智策开发笔记：Cesium 数据处理与空间分析</title>
+    <link>http://localhost:1313/posts/loveit-customization/</link>
+    <pubDate>Sun, 28 Jun 2026 00:00:00 &#43;0000</pubDate>
+    <author>WaterFlowers</author>
+    <guid>http://localhost:1313/posts/loveit-customization/</guid>
+    <description><![CDATA[记录在项目开发中处理唐代长安-洛阳路网数据的过程与踩坑经验。]]></description>
+</item>
+</channel>
+</rss>

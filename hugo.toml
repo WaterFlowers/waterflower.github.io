@@ -1,64 +1,53 @@
 baseURL = 'https://waterflowers.github.io/'
-title = 'Waterflowers Knowledge'
-
+title = 'SpatialLab'   # ← 改了
 theme = 'LoveIt'
 languageCode = 'en'
 
 [params]
+  customCSS = ['css/custom.css']
 
-   customCSS = ['css/custom.css']
+[params.page]
+   maxWidth = "100%"    # 试试这个
 
+[params.header.title]
+  name = 'ZHANGHENGWEI-SpatialLab'          # ← 改了
+  subtitle = 'HPC · Digital Twin'  # ← 新增，可选
 
+[params.home.profile]
+  enable = true
+  title = "记录 · 探索  · 分享"   # ← 这是首页头像下方的标题，不是左上角
+  subtitle = "HPC · Spatial Computing · RAG"
+  avatarURL = "/images/avatar.jpg"
+  social = true
 
-[params.list]
-  showCover = true
+[params.home.posts]
+    enable = true   # 关闭博客文章列表，首页不显示文章
+    paginate = 3   # 显示最近3篇，避免太长
 
-  [params.header]
-    [params.header.title]
-      name = 'WATERFLOWERS 未知世界'
+[params.author]
+  name = 'WaterFlowers'
 
-  [params.home.profile]
-    enable = true
-    title = "探索 · 记录 · 分享"
-    subtitle = "A personal knowledge repository"
-    avatarURL = "/images/avatar.jpg"
-
-    social = true
-
-
-
-  [params.author]
-    name = 'WaterFlowers'
-
-  [params.social]
-    GitHub = 'WaterFlowers'
-    Email = '326238137@qq.com'
+[params.social]
+  GitHub = 'WaterFlowers'
+  Email = '326238137@qq.com'
 
 [[menu.main]]
   name = 'Posts'
   url = '/posts/'
-  weight = 1
+  weight = 2
 
 [[menu.main]]
   name = 'Tags'
   url = '/tags/'
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = 'Projects'
-  url = '/projects/'
-  weight = 3
+  url = '/projects/liangjing/'
+  weight = 1
 
 [[menu.main]]
   name = 'About'
   url = '/about/'
   weight = 4
-
-  [[menu.main]]
-  name = '关于我'
-  url = '/关于我/'
-  weight = 5
-
-[languages]
-  [languages.en]
-    title = 'Waterflowers Knowledge'
+  # '关于我' 已删除，避免重复

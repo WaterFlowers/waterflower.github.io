@@ -1,15 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Tags on Waterflowers Knowledge</title>
+		<title>标签 on SpatialLab</title>
 		<link>http://localhost:1313/tags/</link>
-		<description>Recent content in Tags on Waterflowers Knowledge</description>
+		<description>Recent content in 标签 on SpatialLab</description>
 		<generator>Hugo</generator>
 		<language>en</language>
 		
 		
 		
 		
+			<lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
 			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Cesium</title>
+				<link>http://localhost:1313/tags/cesium/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/cesium/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>HPC</title>
+				<link>http://localhost:1313/tags/hpc/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/hpc/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>RAG</title>
+				<link>http://localhost:1313/tags/rag/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/rag/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>UE5</title>
+				<link>http://localhost:1313/tags/ue5/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/ue5/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>数字孪生</title>
+				<link>http://localhost:1313/tags/%E6%95%B0%E5%AD%97%E5%AD%AA%E7%94%9F/</link>
+				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/%E6%95%B0%E5%AD%97%E5%AD%AA%E7%94%9F/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>GIS</title>
+				<link>http://localhost:1313/tags/gis/</link>
+				<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/gis/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>数据处理</title>
+				<link>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/</link>
+				<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/</guid>
+				<description></description>
+			</item>
 	</channel>
 </rss>

@@ -1,7 +1,37 @@
 ---
 home: true
-title: "Explore · Record · Share"
-subtitle: "A personal knowledge repository"
-avatar: "/images/avatar.jpg"
-social: true
+type: "page"
 ---
+
+&nbsp;
+<div class="hero-divider"></div>
+
+
+## 两京智策 · 数字孪生系统
+
+**HPC · Spatial Computing · RAG**
+
+面向唐代长安—洛阳历史地理分析的沉浸式决策平台，融合高性能空间计算、RAG 智能检索与 UE5 沉浸式展示。
+
+[![系统架构图](/images/arch.svg)](/projects/liangjing/)
+
+
+
+## 核心成果
+
+| 🚀 吞吐量提升 40% | ⚡ 检索延迟 < 200ms | 🏛️ 覆盖 200+ 实体 |
+|:---:|:---:|:---:|
+| 🚀 吞吐量提升 40% | ⚡ 检索延迟 < 200ms | 🏛️ 覆盖 200+ 实体 |
+
+| 🚀 吞吐量提升 40% | ⚡ 检索延迟 < 200ms | 🏛️ 覆盖 200+ 实体 |
+|:---:|:---:|:---:|
+
+[查看完整项目 →](/projects/liangjing/)
+
+---
+
+### 📝 技术笔记
+
+从项目开发中沉淀的一些思考与记录。
+
+[查看所有技术笔记 →](/posts/)
